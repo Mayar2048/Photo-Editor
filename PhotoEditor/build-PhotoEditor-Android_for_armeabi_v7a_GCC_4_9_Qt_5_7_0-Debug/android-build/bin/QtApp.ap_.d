@@ -1,0 +1,26 @@
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\bin\QtApp.ap_ \
+ : F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\layout\splash.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values\libs.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-de\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-el\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-es\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-et\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-fa\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-fr\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-id\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-it\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-ja\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-ms\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-nb\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-nl\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-pl\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-pt-rBR\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-ro\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-rs\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-ru\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-zh-rCN\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\res\values-zh-rTW\strings.xml \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\assets\--Added-by-androiddeployqt-- \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\assets\--Added-by-androiddeployqt--\qt_cache_pregenerated_file_list \
+F:\Study\#05\HCI\Final Project\build-PhotoEditor-Android_for_armeabi_v7a_GCC_4_9_Qt_5_7_0-Debug\android-build\bin\AndroidManifest.xml \
